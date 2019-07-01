@@ -1,0 +1,3 @@
+[2019-06-28 07:54:50] DEBUG Creating transport: nodemailer (6.1.0; +https://nodemailer.com/; SMTP/6.1.0[client:6.1.0])
+[0mGET /news [32m200 [0m167.382 ms - 1024[0m
+[0mGET /news [36m304 [0m174.467 ms - -[0m

@@ -1,0 +1,24 @@
+(node:9492) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:9492) UnhandledPromiseRejectionWarning: ConnectionError: Failed to connect to JLMB-APP-SVR:1433 in 15000ms
+    at Connection.tedious.once.err (C:\node-rest-shop\node_modules\mssql\lib\tedious.js:244:17)
+    at Object.onceWrapper (events.js:277:13)
+    at Connection.emit (events.js:189:13)
+    at Connection.connectTimeout (C:\node-rest-shop\node_modules\tedious\lib\connection.js:1027:10)
+    at Timeout.connectTimer.setTimeout [as _onTimeout] (C:\node-rest-shop\node_modules\tedious\lib\connection.js:1001:12)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+(node:9492) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:9492) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:9492) UnhandledPromiseRejectionWarning: ConnectionError: Failed to connect to JLMB-APP-SVR:1433 in 15000ms
+    at Connection.tedious.once.err (C:\node-rest-shop\node_modules\mssql\lib\tedious.js:244:17)
+    at Object.onceWrapper (events.js:277:13)
+    at Connection.emit (events.js:189:13)
+    at Connection.connectTimeout (C:\node-rest-shop\node_modules\tedious\lib\connection.js:1027:10)
+    at Timeout.connectTimer.setTimeout [as _onTimeout] (C:\node-rest-shop\node_modules\tedious\lib\connection.js:1001:12)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+(node:9492) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)

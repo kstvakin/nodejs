@@ -1,0 +1,25 @@
+[2019-06-25 15:33:00] DEBUG Creating transport: nodemailer (6.1.0; +https://nodemailer.com/; SMTP/6.1.0[client:6.1.0])
+[0mGET /news [32m200 [0m168.325 ms - 1024[0m
+[0mOPTIONS /profiles/b28372ca-7236-45a7-80f9-af2cff2cc357 [32m200 [0m2.085 ms - 2[0m
+[0mPOST /profiles/b28372ca-7236-45a7-80f9-af2cff2cc357 [32m201 [0m110.579 ms - 49[0m
+[0mGET /news [36m304 [0m23.767 ms - -[0m
+9.03
+9.05
+9.07
+9.08
+9.10
+9.12
+9.13
+9.15
+9.17
+9.18
+9.20
+9.22
+9.23
+9.25
+9.27
+9.28
+9.30
+9.32
+9.33
+9.35
